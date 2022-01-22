@@ -1,0 +1,25 @@
+Boas-vindas ao Decola Tech 2a edição
+
+Mentoria #1: Aula Inaugural do Decola Tech 2a edição
+
+Lógica de Programação Essencial
+
+Introdução à lógica e a progamação;
+Introdução ao portugol.
+
+Aprenda o que são Estrutura de Dados e Algoritmos
+
+Conceitos iniciais sobre estrutura de dados, arrays e registro;
+Entenda o que sao listas, pilhas e filas;
+Estruturas de dados do tipo árvore, tabela hash e grafos.
+
+Introdução ao Git e ao GitHub
+
+Introdução ao Git;
+Navegação via commend line interface e interface e instalação;
+Entender como o Git funciona por baixo dos panos;
+Primeiro comendos com Git;
+Ciclo de vida dos arquivos no Git;
+Introdução ao Github;
+Resolvendo conflitos. 
+
